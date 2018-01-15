@@ -1,0 +1,18 @@
+[
+    {
+        "task": "First Task.",
+        "done": false
+    },
+    {
+        "task": "Second Task.",
+        "done": true
+    },
+    {
+        "task": "Third Task.",
+        "done": true
+    },
+    {
+        "task": "Fourth Task.",
+        "done": false
+    }
+]
