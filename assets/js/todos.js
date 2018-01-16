@@ -10,7 +10,7 @@ $(document).ready(function(){
 				
 			});
 		});
-});
+
 //creating new task
 $('#newTask').keypress(function(event){
 	// console.log(event.which) //check the event number of ENTER
@@ -44,4 +44,9 @@ $('ul').on('click', 'span', function(){
 		function(data, status){
 			console.log(data);
 	});
+});
+
+/*event.stopPropagation();*/
+
+
 });
